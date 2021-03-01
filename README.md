@@ -55,4 +55,4 @@ code .
 
 # Note :
 sudo chmod -R 757 /home/dev/mdata
-(venv).....# sudo chmod -R 757 /home/sandeepdevsys/Documents/Project/MinIOProject/
+(venv).....# sudo chmod -R 757 /home/s..../MinIOProject/
