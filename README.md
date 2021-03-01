@@ -53,6 +53,6 @@ pip3 freeze > requirements.txt
 
 code .
 
-# Note :
-sudo chmod -R 757 /home/dev/mdata
-(venv).....# sudo chmod -R 757 /home/s..../MinIOProject/
+
+# sudo chmod -R 757 /home/dev/mdata
+# (venv).....# sudo chmod -R 757 /home/s..../MinIOProject/
